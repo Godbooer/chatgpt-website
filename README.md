@@ -26,5 +26,3 @@
 6.  体验地址：我用的是github pages->: [https://aniuyyds.github.io/ChatGPT-website/](https://aniuyyds.github.io/ChatGPT-website/)
 7.  项目后端版本：https://gitee.com/aniu-666/chat-gpt-website/tree/master/
 #### 项目效果
-
-![输入图片说明](示例图.png)
